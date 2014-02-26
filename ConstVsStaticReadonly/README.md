@@ -1,10 +1,11 @@
 # Difference betwen *static readonly* and *const* #
 
 ##Intro
+The key thing: `const` value is evaluated at compile time whereas `static readonly` value is evaluated at runtime.
+ 
+This question is asked @[stackoverflow](http://stackoverflow.com/questions/755685/c-static-readonly-vs-const/756010#756010 "Stackoverflow"), and [asked again](http://stackoverflow.com/questions/9109567/static-readonly-vs-const-at-different-assemblies). 
 
-There is an interesting question here on [Stackoverflow](http://stackoverflow.com/questions/755685/c-static-readonly-vs-const/756010#756010 "Stackoverflow"). 
-
-Michael Stum wrote [an useful article](http://www.stum.de/2009/01/14/const-strings-a-very-convenient-way-to-shoot-yourself-in-the-foot/) about the main difference, and my code is to confirm it ! As of 2014, it's still happening in .NET 4.5.
+Michael Stum wrote [an useful article](http://www.stum.de/2009/01/14/const-strings-a-very-convenient-way-to-shoot-yourself-in-the-foot/) about the main difference, and my code is to demo it.
 
 ##How to verify
 
@@ -26,4 +27,6 @@ Michael Stum wrote [an useful article](http://www.stum.de/2009/01/14/const-strin
 
 
 ##Conclusion
-Advised by Michael Stum: use static readonly if the consumer is in a different assembly. **`const`** value is set only at compile while **`static readonly`** is updated at runtime, hence it is safer.
+Use **`static readonly`** if the consumer of this property is in a different assembly.
+
+Use **`const`** for better performance, as it is stored as literal.
