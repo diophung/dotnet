@@ -1,0 +1,10 @@
+C:\Work\tests\ConstVsStaticReadonlyString\StringProducer\StringProducer\bin\Debug\StringProducer.dll
+C:\Work\tests\ConstVsStaticReadonlyString\StringProducer\StringProducer\bin\Debug\StringProducer.pdb
+C:\Work\tests\ConstVsStaticReadonlyString\StringProducer\StringProducer\obj\Debug\StringProducer.dll
+C:\Work\tests\ConstVsStaticReadonlyString\StringProducer\StringProducer\obj\Debug\StringProducer.pdb
+C:\Work\tests\ConstVsStaticReadonlyString\StringProducer\StringProducer\obj\Debug\StringProducer.csprojResolveAssemblyReference.cache
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringProducer\StringProducer\bin\Debug\StringProducer.dll
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringProducer\StringProducer\bin\Debug\StringProducer.pdb
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringProducer\StringProducer\obj\Debug\StringProducer.csprojResolveAssemblyReference.cache
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringProducer\StringProducer\obj\Debug\StringProducer.dll
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringProducer\StringProducer\obj\Debug\StringProducer.pdb

@@ -1,0 +1,13 @@
+C:\Work\tests\ConstVsStaticReadonlyString\Consumer\Consumer\bin\Debug\Consumer.pdb
+C:\Work\tests\ConstVsStaticReadonlyString\Consumer\Consumer\obj\Debug\StringConsumer.csprojResolveAssemblyReference.cache
+C:\Work\tests\ConstVsStaticReadonlyString\Consumer\Consumer\obj\Debug\Consumer.pdb
+C:\Work\tests\ConstVsStaticReadonlyString\Consumer\Consumer\bin\Debug\StringProducer.dll
+C:\Work\tests\ConstVsStaticReadonlyString\Consumer\Consumer\bin\Debug\StringProducer.pdb
+C:\Work\tests\ConstVsStaticReadonlyString\Consumer\Consumer\bin\Debug\Consumer.exe
+C:\Work\tests\ConstVsStaticReadonlyString\Consumer\Consumer\obj\Debug\Consumer.exe
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringConsumer\Consumer\obj\Debug\Consumer.exe
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringConsumer\Consumer\obj\Debug\Consumer.pdb
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringConsumer\Consumer\bin\Debug\Consumer.exe
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringConsumer\Consumer\bin\Debug\Consumer.pdb
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringConsumer\Consumer\bin\Debug\StringProducer.pdb
+D:\Works\github\dotnet\ConstVsStaticReadonly\StringConsumer\Consumer\obj\Debug\StringConsumer.csprojResolveAssemblyReference.cache
